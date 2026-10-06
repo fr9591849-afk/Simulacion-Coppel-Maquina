@@ -1,0 +1,6 @@
+{
+  "name": "Centro de Intercambio Digital Coppel",
+  "description": "Prototipo interactivo de alta fidelidad para la máquina de intercambio digital de teléfonos de Coppel con flujo guiado por voz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
